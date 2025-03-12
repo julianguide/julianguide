@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @julianguide
+- 🕸️ My website is [julian.guide](http://julian.guide)
 - 👀 I’m interested in web dev, Rust, Nix, and more
 - 🌱 I’m currently learning frontend in the real world after spending my career at a FAANG
 - 💞️ I’m looking to collaborate on any interesting projects
